@@ -40,8 +40,71 @@ var numeros = [1,2,3,4,5,6,7,8,9,10];
 
 document.writ(numero[6]);
 
+/*Tipo arreglo de string:*/
+
+var nombres= ["Juan","Jose","Pedro","Pablo","Maria","Fernanda"];
+
+/*Operadores Matemáticos:*/
+
+/*Operador de asignación:*/
+
+"="
+
+var numero = 10;
+
+/*Operador Suma:*/
+
+document.writ(5+5);
+
+/*También podemos sumar dos variables:*/
+
+var numA = 10;
+
+var numB = 11;
+
+var resultado = numA + numB;
+
+document.writ(resultado);
 
 
+/*Operador de resta:*/
+
+var numA = 10;
+
+var numB = 9;
+
+var resultado = numA-numB;
+
+document.writ(resultado);
+
+/*Operador de multiplicación:*/
+
+var numA = 12;
+
+var numB = 5;
+
+var resultado = numA * numB;
+
+Document.writ(resultado);
 
 
+/*Operador de división:*/
+
+var numA = 12;
+
+var numB = 5;
+
+var resultado = numA/numB;
+
+document.writ(resultado);
+
+/*Operador de modulo o resto:*/
+
+var numA = 12;
+
+var numB = 5;
+
+var resultado = numA%numB;
+
+document.writ(resultado);
 
