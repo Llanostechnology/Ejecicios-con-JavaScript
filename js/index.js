@@ -108,3 +108,82 @@ var resultado = numA%numB;
 
 document.writ(resultado);
 
+
+/*Operador de incremento:*/
+/*Operador de incremento nos sirve para ir realizando un incremento paulatino en una variable:*/
+
+var numero = 0;
+
+numero++;/*Es equivalente a decir numero=numero+1*/
+
+numero++;
+
+numero++;
+
+/*Operador de decremento:*/
+/*Operador de decremento nos sirve para ir realizando un decremento paulatino en una variable:*/
+
+
+
+var numero = 0;
+
+numero--;/*Es equivalente a decir numero=numero-1*/
+
+numero--;
+
+numero--;
+
+
+
+
+/*Operador relacionales*/
+
+/*operador  nombre      como se usa 
+>          mayor que       A > B 
+<          menor que       A < B
+>=       mayor o igual     A >= B
+<=       menor o igual     A <= B
+==         igual que       A == B
+¡=        distinto de      A ¡= B
+*/
+
+
+
+
+
+
+
+
+
+/*Operadores lógicos:*/
+
+/*Operador AND*/
+/*EVALUACION1 && EVALUACION2 */
+         
+/*EVALUACION1  EVALUACION2      RESULTADO 
+true             true             true
+true             false            false
+false            true             false
+false            false            false
+
+*/
+
+/*Operador OR*/
+/*EVALUACION1 || EVALUACION2 */
+         
+/*EVALUACION1  EVALUACION2      RESULTADO 
+true             true             true
+true             false            true
+false            true             true
+false            false            false
+
+*/
+
+
+/*Operador ! 
+/*EVALUACION1 !  EVALUACION2 */
+         
+/*variable        valor negado 
+verdadero           faslso
+falso               verdadero */
+
